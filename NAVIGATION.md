@@ -47,11 +47,12 @@ subgraph one [Non-interacting particles]
  A1[Paper] --> B1[Exercises] --> C1[Suggested Extensions]
 end
   A[What is science?] --> one
+  one --> B[Monte Carlo]
 subgraph two [Single particle MD]
  direction LR 
  A2[Paper] --> B2[Exercises] --> C2[Suggested Extensions]
 end
-  one --> two
+  B --> two
 subgraph three [The Ising model]
  direction LR 
  A3[Paper] --> B3[Exercises] --> C3[Suggested Extensions]
@@ -68,6 +69,7 @@ subgraph five [Quantum effects]
 end
   four --> five
 click A "research.md" "A more detailed introduction to the phillosophy that underpins this course"
+click B "" "Some exercises to introduce you to the technique of Monte Carlo that we will be using to calculate ensemble averages in the rest of this course"
 click A1 "Reports/non_interacting_particles_report.pdf" "My example paper on non-interacting particles"
 click C1 "proj1-extensions.md" "Suggestions for extension projects on systems on non-interacting particles"
 click A2 "Reports/harmonic_oscillator_MD.pdf" "My example paper on molecular dynamics on a single particle"
