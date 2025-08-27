@@ -27,7 +27,7 @@ exercises that should help you to reproduce the simulations that I ran when I wr
 page that provides suggestions on things you can do to extend the work that I presented in my papers.  Please use these suggestions when you are 
 using these resources to prepare your portfolio report.
 
-By presenting the material this way I hope you will see how we do new research in statistical mechanics.  This topic provides a set of tools that allow
+By presenting the material this way I hope you will see how we do new research in statistical mechanics.  This topic provides a set of [technical objects](research.md) that allow
 us to use what we know about the microscopic behaviours of atoms and molecules to understand the behaviour of large ensembles of of these particles. My 
 contention is that research in statistical mecahnics is often about finding the minimal description of the microscopic behaviour of atoms and molecules that
 reproduces the known macroscopic behaviours.  Some questions we might ask when doing research in this field include:
@@ -69,8 +69,13 @@ end
   four --> five
 click A "research.md" "A more detailed introduction to the phillosophy that underpins this course"
 click A1 "Reports/non_interacting_particles_report.pdf" "My example paper on non-interacting particles"
+click C1 "proj1-extensions.md" "Suggestions for extension projects on systems on non-interacting particles"
 click A2 "Reports/harmonic_oscillator_MD.pdf" "My example paper on molecular dynamics on a single particle"
+click C2 "proj2-extensions.md" "Suggestions for extension projects on single particle molecular dynamics"
 click A3 "Reports/MTH4332_Ising_model_project.pdf" "My example paper on the Ising model"
+click C3 "proj3-extensions.md" "Suggestions for extension projects on the Ising model"
 click A4 "Reports/pair_potential_MD_heat_capacity.pdf" "My example paper on simulating Lennard Jones"
+click C4 "proj4-extensions.md" "Suggestions for extension projects multi particle molecular dynamics"
 click A5 "Reports/quantum_pair_potential_MD_heat_capacity.pdf" "My example paper on nuclear quantum effects and dynamic structure of materials"
+click C5 "proj5-extensions.md" "Suggestions for extension projects on nuclear quantum effects"
 ```
