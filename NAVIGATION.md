@@ -69,7 +69,7 @@ subgraph five [Quantum effects]
 end
   four --> five
 click A "research.md" "A more detailed introduction to the phillosophy that underpins this course"
-click B "" "Some exercises to introduce you to the technique of Monte Carlo that we will be using to calculate ensemble averages in the rest of this course"
+click B "mc_exercise" "Some exercises to introduce you to the technique of Monte Carlo that we will be using to calculate ensemble averages in the rest of this course"
 click A1 "Reports/non_interacting_particles_report.pdf" "My example paper on non-interacting particles"
 click C1 "proj1-extensions.md" "Suggestions for extension projects on systems on non-interacting particles"
 click A2 "Reports/harmonic_oscillator_MD.pdf" "My example paper on molecular dynamics on a single particle"
