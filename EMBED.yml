@@ -1,3 +1,19 @@
 mc_exercise:
  location: https://colab.research.google.com/github/autofeedback-exercises/exercises/blob/main/New-MTH4332/MonteCarlo/MonteCarlo.ipynb
- type: external  
+ type: external
+lg_exercise:
+ location: https://colab.research.google.com/github/autofeedback-exercises/exercises/blob/main/New-MTH4332/LatticeGas/LatticeGas.ipynb
+ type: external
+md_exercise:
+ location: https://colab.research.google.com/github/autofeedback-exercises/exercises/blob/main/New-MTH4332/SingleParticleMD/SingleParticleMD.ipynb
+ type: external
+ising_exercise:
+ location: https://colab.research.google.com/github/autofeedback-exercises/exercises/blob/main/New-MTH4332/IsingModel/IsingModel.ipynb
+ type: external 
+lj_exercise:
+ location: https://colab.research.google.com/github/autofeedback-exercises/exercises/blob/main/New-MTH4332/LennardJonesI/LennardJonesI.ipynb
+ type: external 
+qm_exercise:
+ location: https://colab.research.google.com/github/autofeedback-exercises/exercises/blob/main/New-MTH4332/LennardJonesII/LennardJonesII.ipynb
+ type: external 
+  
